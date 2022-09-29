@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2-AdivinaNumero", "Tema2-AdivinaNumero\Tema2-AdivinaNumero.csproj", "{F6229558-274F-4381-85AF-CC5EC53395A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6229558-274F-4381-85AF-CC5EC53395A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6229558-274F-4381-85AF-CC5EC53395A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6229558-274F-4381-85AF-CC5EC53395A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6229558-274F-4381-85AF-CC5EC53395A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21220BA-A689-4F26-94FE-DB8D9339A50E}
+	EndGlobalSection
+EndGlobal
